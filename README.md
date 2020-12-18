@@ -8,13 +8,13 @@
 如果说我未来的某一天，我说的是如果，算了没有这个如果了。<br>
 希望看见我这套源码的情侣们，如果你把它搭建出来了，我希望现在的那个ta和你未来的那个ta都是ta.<br>
 
-if(The present object == future object){
-祝你白头携老
-}else{
-去死吧，死渣男or女
-}else if(The present objectt != love me && love !=The present object){
-及时止损,对双方都好.
-}
+if(The present object == future object){<br>
+祝你白头携老<br>
+}else{<br>
+去死吧，死渣男or女<br>
+}else if(The present objectt != love me && love !=The present object){<br>
+及时止损,对双方都好.<br>
+}<br>
 
 
 >我们的爱情小站： 孙or赵的爱情小站
