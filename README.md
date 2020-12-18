@@ -1,5 +1,5 @@
 # SunOrZhaoLoveHomepage
->我们的爱情小站 效果页面： ~~https://love.wanan.life~~
+>曾经的我们爱情小站 效果页面： ~~https://love.wanan.life~~
 
 
 这个网站可能已经死在了2020年2月3日<br>
@@ -17,4 +17,4 @@ if(The present object == future object){<br>
 }<br>
 
 
->我们的爱情小站： 孙or赵的爱情小站
+>曾经的我们爱情小站： 孙or赵的爱情小站
