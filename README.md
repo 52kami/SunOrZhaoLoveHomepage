@@ -1,5 +1,5 @@
 # SunOrZhaoLoveHomepage
->曾经的我们爱情小站 效果页面： ~~https://love.wanan.life~~
+>曾经的我们爱情小站 效果页面： https://www.wanan.life/by.html
 
 
 这个网站可能已经死在了2020年2月3日<br>
